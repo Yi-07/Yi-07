@@ -47,9 +47,11 @@
 
 ## 📈 GitHub 统计
 
-![Yi-07的GitHub统计](https://github-readme-stats.vercel.app/api?username=Yi-07&show_icons=true&theme=radical)
+![Yi-07的状态](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yi-07&theme=github)
 
-![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Yi-07&layout=compact&theme=radical)
+![Yi-07的最常用编程语言](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yi-07&theme=github)
+
+![Yi-07's Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yi-07&theme=github)
 
 ![GitHub连续贡献](https://streak-stats.demolab.com/?user=Yi-07&theme=radical)
 
