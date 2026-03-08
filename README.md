@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# README.md
  
 ![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake-dark.svg)
 
