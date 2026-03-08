@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # README.md
  
-![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
- 
+![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake-dark.svg)
+
  
 ### 仓库信息
  
