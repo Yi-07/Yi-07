@@ -45,16 +45,6 @@
 | **[Personnel_Management_System](https://github.com/Yi-07/PersonnelManagementSystem)** | 数据库系统课程设计项目，具有员工管理功能，重点在于数据库设计原则。 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ✅ 已完成 (2025年12月) |
 | **[Case_Collections](https://github.com/Yi-07/CaseCollections)** | 使用各种编程语言实现的算法编程练习集合，用于练习和提升问题解决能力。 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ✅ 已完成 (2025年7月) |
 
-## 📈 GitHub 统计
-
-![Yi-07的状态](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yi-07&theme=github)
-
-![Yi-07的最常用编程语言](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yi-07&theme=github)
-
-![Yi-07's Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yi-07&theme=github)
-
-![GitHub连续贡献](https://streak-stats.demolab.com/?user=Yi-07&theme=radical)
-
 ## 🌱 当前学习与探索
 
 - **AI智能体**: 研究探索高级智能体架构和框架，深化AI智能体和MCP技术的专业知识
