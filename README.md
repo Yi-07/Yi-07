@@ -60,9 +60,9 @@
 
 | 仓库 | 描述 | 使用技术 | 状态 |
 |------|------|----------|------|
-| **[User_Privary_Messages_Management_System](https://github.com/Yi-07/User_Privary_Messages_Management_System)** | 一个基础的C/C++版本用户隐私管理系统，用于安全地管理用户的隐私信息。 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ✅ 已完成 (2025年8月) |
 | **[Visualization_Chart_For_Python](https://github.com/Yi-07/VisualizationChartForPython)** | 通过调用第三方Python库pyecharts实现的数据可视化案例，展示各种图表类型和数据表示技术。 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ✅ 已完成 (2025年7月) |
-| **[Personnel_Management_System](https://github.com/Yi-07/PersonnelManagementSystem)** | 数据库系统课程设计项目，具有员工管理功能，重点在于数据库设计原则。 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ✅ 已完成 (2025年12月) |
+| **[User_Privary_Messages_Management_System](https://github.com/Yi-07/User_Privary_Messages_Management_System)** | C语言课程设计项目，具有用户隐私信息管理功能，目的是用于安全地管理用户的隐私信息。 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ✅ 已完成 (2025年8月)，可能计划优化 |
+| **[Personnel_Management_System](https://github.com/Yi-07/PersonnelManagementSystem)** | 数据库系统课程设计项目，具有员工信息管理功能，重点目的在于数据库设计原则。 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ✅ 已完成 (2025年12月)，可能计划优化 |
 | **[MyBlogSite](https://yi-07.github.io/)** | 本人搭建的个人博客站点，记录我的学习日常 | ![hugo/stack](https://img.shields.io/badge/hugo/stack-FF4088?style=for-the-badge&logo=hugo&labelColor=555) | 持续更新中 :) |
 
 ## 学习与探索
