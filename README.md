@@ -1,18 +1,19 @@
-# 👋 你好，我是 Yi-07 (Twilight Yi-07)
+# 🤗 你好，我是 Twilight-yi
 
+> [!note]
 > *"探索人工智能与智能体的前沿领域"*
 
-## 🎓 关于我
+## 关于我
 
-我是**湖南科技大学计算机科学专业大二学生**，对人工智能充满热情，目前主要专注于**智能体和MCP（模型上下文协议）的研究与开发**。
+我是**湖南科技大学计算机科学专业大二学生**，对人工智能充满热情，目前主要专注于**AI Agent领域的学习研究与开发**。
 
-### 📍 基本信息
+### 基本信息
 - **所在地**: 中国湖南 🇨🇳
 - **学校**: [湖南科技大学](https://www.hnust.edu.cn/)
 - **状态**: 大二本科生
 - **兴趣方向**: AI智能体、MCP、深度学习、数字人、系统架构设计
 
-## 🛠️ 技术栈
+## 技术栈
 
 ### 编程语言
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -36,7 +37,7 @@
 ### Web技术
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## 📂 项目作品集
+## 项目作品集
 
 | 仓库 | 描述 | 使用技术 | 状态 |
 |------|------|----------|------|
@@ -44,10 +45,11 @@
 | **[Visualization_Chart_For_Python](https://github.com/Yi-07/VisualizationChartForPython)** | 通过调用第三方Python库pyecharts实现的数据可视化案例，展示各种图表类型和数据表示技术。 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ✅ 已完成 (2025年7月) |
 | **[Personnel_Management_System](https://github.com/Yi-07/PersonnelManagementSystem)** | 数据库系统课程设计项目，具有员工管理功能，重点在于数据库设计原则。 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ✅ 已完成 (2025年12月) |
 | **[Case_Collections](https://github.com/Yi-07/CaseCollections)** | 使用各种编程语言实现的算法编程练习集合，用于练习和提升问题解决能力。 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ✅ 已完成 (2025年7月) |
+| **[MyBlogSite](https://yi-07.github.io/)** | 本人搭建的个人博客站点，记录我的学习日常 | ![hugo/stack](https://img.shields.io/badge/hugo/stack-FF4088?style=for-the-badge&logo=hugo&labelColor=555) | 持续更新中 :) |
 
-## 🌱 当前学习与探索
+## 学习与探索阶段
 
-- **AI智能体**: 研究探索高级智能体架构和框架，深化AI智能体和MCP技术的专业知识
+- **AI Agent**: 研究探索高级智能体架构和框架，深化AI智能体和MCP技术的专业知识
 - **MCP（模型上下文协议）**:  模型上下文协议的研究与开发
 - **计算机基础**: 学习计算机基础知识，以便过渡到机器学习，深度学习等人工智能领域的学习 
 - **项目开发**: 构建更复杂的AI驱动应用程序，探索数字人领域，期望能打造一个“赛博女友”
